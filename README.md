@@ -122,7 +122,7 @@ python tests/test_rag.py
 
 ---
 
-## 🎓 Technical Highlights for Interviews
+## 🎓 Technical Highlights 
 
 - **Robust Preprocessing**: Solved raw PDF stream garbage by implementing regex sanitization for digital signature blocks, PKCS#7 certificate streams, and CID font mappings.
 - **Enterprise OS Safety**: Engineered a pure-Python/NumPy vector search engine (`NumpyVectorStore`) ensuring zero binary DLL policy blocks on restricted enterprise Windows environments.
